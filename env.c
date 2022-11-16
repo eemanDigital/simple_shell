@@ -17,7 +17,7 @@ int _myenv(info_t *info)
  * @info: Structure containing potential argument
  * @name: env var name
  *
- * Return: the value
+ * Return: the value ()
  */
 char *_getenv(info_t *info, const char *name)
 {
